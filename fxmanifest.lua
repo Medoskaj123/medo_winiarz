@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
-author 'many#3330'
+author 'medoskyy'
 
-description 'zlomiarz pod targecik ;p'
+description 'złomiarz pod cityofart'
 lua54 'yes'
 
 client_scripts {
@@ -20,10 +20,5 @@ dependencies {
     'PolyZone',
     'es_extended',
     'qtarget',
-    'many-base'
-}
-
-escrow_ignore {
-    'config.lua',
-    'server.lua'
+    'COA-base'
 }
