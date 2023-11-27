@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 author 'medoskyy'
 
-description 'złomiarz pod cityofart'
+description 'winiarz pod cityofart'
 lua54 'yes'
 
 client_scripts {
